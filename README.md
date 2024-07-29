@@ -1,7 +1,6 @@
 # Data Analyst Exercise 
 
 # Ricardo Andres Muchacho Mata
-# NIE: E26904362
 
 Welcome to the xxxx Data Analyst offline exercise. This is your opportunity to showcase your skills that are essential for a Data Analyst role. If any part of the exercise is unclear, please reach out for clarification.
 
